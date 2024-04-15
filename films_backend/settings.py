@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'films',
     'rest_framework',
-    'corsheaders'
+    'corsheaders',
+    'taggit',
 ]
 
 MIDDLEWARE = [
